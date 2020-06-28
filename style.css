@@ -1,0 +1,132 @@
+body{
+background-image: url("cal.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+overflow-x: hidden;
+
+}
+html{
+    overflow-x: hidden;  
+}
+.main{
+    margin: 0 auto;
+    border: 4px solid purple;
+    width: 350px;
+    margin-top: 50px;
+    border-radius: 7px;
+
+}
+
+.textfield{
+width: 98%;
+height: 70px;
+background-image: linear-gradient(to right, peru , purple);
+font-size:35px;
+color: white;
+text-align: right;
+}
+.textfield::placeholder{
+    color: white;
+}
+.firstdiv{
+    background-color: lightgrey;
+}
+.btn{
+    background-color: lightgrey;
+    border: none;
+   padding:  20px 36px 20px 36px;
+}
+.btn:hover{
+    border: none;
+    background-color: peru;
+
+}
+.btn:active {
+    background-color: purple;
+color: white;
+    transform: translateY(4px);
+}
+ .secdiv{
+    background-color: white;
+}
+.btn-sec{
+    background-color: white;
+    border: none;
+    padding:  20px 39px 20px 39px;
+    
+} 
+.btn-sec:hover{
+    border: none;
+    background-color: peru; 
+}
+.btn-sec:active {
+    background-color: purple;
+color: white;
+    transform: translateY(4px);
+}
+.btn-four{
+    background-color: white;
+    border: none;
+    padding:  20px 38px 20px 36px; 
+}
+.btn-four:hover{
+    border: none;
+    background-color: peru;
+}
+.btn-four:active {
+    background-color: purple;
+color: white;
+    transform: translateY(4px);
+}
+.btn-sqr{
+    background-color: lightgrey;
+    border: none;
+   padding:  20px 30px 20px 34px;
+}
+.btn-sqr:hover{
+    border: none;
+    background-color: peru;
+
+}
+.btn-sqr:active {
+    background-color: purple;
+color: white;
+    transform: translateY(4px);
+}
+.btn-eql{
+    background-image: linear-gradient(to right, peru , purple);
+    padding:  20px 33px 20px 34px;
+}
+
+.btn-five{
+    background-color: lightgrey;
+    border: none;
+    padding:  20px 40px 20px 40px;
+}
+.btn-five:hover{
+    border: none;
+    background-color: peru;
+}
+.btn-five:active {
+    background-color: purple;
+color: white;
+    transform: translateY(4px);
+}
+.fivediv{
+    background-color: lightgrey;
+}
+.btn-three{
+    background-color: white;
+    border: none;
+    padding:  20px 47px 20px 38px; 
+    width: 40px;
+}
+.btn-three:hover{
+    border: none;
+    background-color: peru; 
+}
+.btn-three:active {
+    background-color: purple;
+color: white;
+    transform: translateY(4px);
+}
