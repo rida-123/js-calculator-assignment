@@ -35,7 +35,7 @@ text-align: right;
 .btn{
     background-color: lightgrey;
     border: none;
-   padding:  20px 32px 20px 32px;
+   padding:  20px 30px 20px 32px;
 }
 .btn:hover{
     border: none;
@@ -82,7 +82,7 @@ color: white;
 .btn-sqr{
     background-color: lightgrey;
     border: none;
-   padding:  20px 28px 20px 28px;
+   padding:  20px 26px 20px 28px;
 }
 .btn-sqr:hover{
     border: none;
